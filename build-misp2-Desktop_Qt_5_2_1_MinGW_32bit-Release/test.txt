@@ -1,0 +1,6 @@
+addi $s1,$zero,100
+add $s2,$s1,$s1
+sub $s3,$s2,$s1
+srl $s4,$s1,1
+slt $s5,$s1,$s2
+
